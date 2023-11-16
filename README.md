@@ -47,7 +47,7 @@ Primarily designed for city cars and motorbikes, but extensible to any kind of o
 ![EEG Band Discovery](/assets/img/object_tracking_gif.gif)
 
 ## Talks & Lectures
-- Conference poster: "Relativistic plasma waves by strong sources of low-frequency radiation" - PHAROS Conference, Rome, Italy May 2022
+- Conference poster: "Relativistic plasma waves by strong sources of low-frequency radiation" - PHAROS Conference, Rome, Italy, May 2022
 - Conference talk: "Maximum mass of neutron stars: What are their main ingredients?" - XV Latin American Regional IAU Meetin, Cartagena de Indias, Colombia, October 2016
 - Conference poster: "Maximum mass of neutron stars: What are their main ingredients?" - XIII Annual SOCHIAS meeting, Antofagasta, Chile, March 2016
 - Workshop talk: "Maximum mass of neutron stars: ¿Chandrasekhar or Schwarzschild?" - PUC/Columbia joint workshop, Santiago, Chile, May 2015
