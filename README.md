@@ -16,25 +16,21 @@
 
 Developed SatoriDriven WebApp by designing and implementing the API and webpage using Flask, Django, JavaScript, CSS, and HTML. This encompassed the implementation of various products, their associated names and visual ideas, enhancing the overall functionality, aesthethics and user interface of the application.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### SatoriDriven product development: DataFlow
 
 Created an automated cloud-pipeline workflow product tool that seamlessly connects and updates the client database for SatoriDriven WebApp. DataFlow serves as the foundation, enabling SatoriDriven to efficiently access and store data crucial for its AI and data visualization products.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### SatoriDriven product development: StockPredict
 
 Led the development of the StockPredict product at SatoriDriven. Responsibilities encompassed data preprocessing, extensive research, and the complete lifecycle of an AI model for demand forecasting. This versatile model, applicable across diverse contexts such as health and food services, and retail sales, aims to optimize storage expenses, and enhance the efficiency of the client capital.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/stock_predict.jpg)
 
 ### SatoriDriven product development: ZenViz
 
 Architected ZenViz, a comprehensive product featuring a cloud pipeline workflow. This system efficiently preprocesses, mines, and stores crucial administrative and business data, including their corresponding KPIs. ZenViz empowers users with automatically updated and accessible cloud dashboards, providing a seamless experience for monitoring key metrics and insights.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/zenviz.png)
 
 ### Selenium-based Web Scraping Automation Project
 
