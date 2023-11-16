@@ -57,7 +57,5 @@ Primarily designed for city cars and motorbikes, but extensible to any kind of o
 - Workshop talk: "Maximum mass of neutron stars: ¿Chandrasekhar or Schwarzschild?" - PUC/Columbia joint workshop, Santiago, Chile, May 2015
 - Workshop talk: "Making my own neutron star" - 3rd Jamboree of Science at PUC, Santiago, Chile, October 2014
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 ## Publications
 1. A. Reisenegger & F. S. Zepeda (2016), "Order-of-magnitude physics of neutron stars", The European Physical Journal A, 52, 52
