@@ -36,17 +36,17 @@ Architected ZenViz, a comprehensive product featuring a cloud pipeline workflow.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-### Selenium Web Scraping Automation Project
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Selenium-based Web Scraping Automation Project
 
 Developed as part of my Data Science diplomate at Platzi, this project enhances my skill set by focusing on data extraction without API access. Leveraging Selenium, the automation framework is designed to seamlessly extract crucial data from dynamic and JavaScript-driven websites. Specifically, the project is tailored to extract essential flight information from a prominent airline's website. This initiative not only showcases proficiency in web scraping but also demonstrates the ability to handle dynamic content and JavaScript interactions for effective data extraction.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Object detection and tracking project applied over cars and motorbikes.
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Object Detection and Tracking AI Project
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+I implemented an advanced AI project focused on object detection and tracking, specifically applied to cars and motorbikes. This undertaking involved research and implementation of cutting-edge artificial intelligence algorithms for robust object detection and precise tracking. The project extends its impact through the analysis of post-processing metadata associated with the detected objects.
+
+Primarily designed for city cars and motorbikes, but extensible to any kind of object, the versatility of this project allows its application across various industries. From quality control and management to enhancing security measures, the capabilities of this AI system offer valuable insights and efficiency improvements in diverse operational contexts.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
