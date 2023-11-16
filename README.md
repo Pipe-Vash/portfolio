@@ -36,7 +36,7 @@ Architected ZenViz, a comprehensive product featuring a cloud pipeline workflow.
 
 Developed as part of my Data Science diplomate at Platzi, this project enhances my skill set by focusing on data extraction without API access. Leveraging Selenium, the automation framework is designed to seamlessly extract crucial data from dynamic and JavaScript-driven websites. Specifically, the project is tailored to extract essential flight information from a prominent airline's website. This initiative not only showcases proficiency in web scraping but also demonstrates the ability to handle dynamic content and JavaScript interactions for effective data extraction.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/selenium_gif.gif)
 
 ### Object Detection and Tracking AI Project
 
@@ -44,7 +44,7 @@ I implemented an advanced AI project focused on object detection and tracking, s
 
 Primarily designed for city cars and motorbikes, but extensible to any kind of object, the versatility of this project allows its application across various industries. From quality control and management to enhancing security measures, the capabilities of this AI system offer valuable insights and efficiency improvements in diverse operational contexts.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/object_tracking_gif.gif)
 
 ## Talks & Lectures
 - Conference poster: "Relativistic plasma waves by strong sources of low-frequency radiation" - PHAROS Conference, Rome, Italy May 2022
