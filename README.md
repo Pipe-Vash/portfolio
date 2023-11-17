@@ -8,7 +8,7 @@
 - B.S., Astronomy | Pontificia Universidad Católica de Chile (_May 2015_)
 
 ## Work Experience
-### **Data Science Consultant @ SatoriDriven (_November 2023 - Present_)**
+### **Data Science Consultant @ SatoriDriven (_September 2023 - Present_)**
 - Conducted data collection, processing, analysis and AI development for Chimu Store SpA.
 
 ## Projects
