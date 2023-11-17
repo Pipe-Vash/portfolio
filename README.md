@@ -24,7 +24,7 @@ Created an automated cloud-pipeline workflow product tool that seamlessly connec
 
 Led the development of the StockPredict product at SatoriDriven. Responsibilities encompassed data preprocessing, extensive research, and the complete lifecycle of an AI model for demand forecasting. This versatile model, applicable across diverse contexts such as health and food services, and retail sales, aims to optimize storage expenses, and enhance the efficiency of the client capital.
 
-![EEG Band Discovery](/assets/img/stock_predict.jpg)
+![EEG Band Discovery](/assets/img/stock_predict.png)
 
 ### SatoriDriven product development: ZenViz
 
