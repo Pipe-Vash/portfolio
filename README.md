@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, Machine Learning, Artificial Inteligence, PostgreSQL, Docker, Flask, Django, JavaScript, CSS, HTML, Google Cloud Platform, Mathematica, Tableau (and equivalents)
+#### Technical Skills: Python, Machine Learning, Artificial Inteligence, PostgreSQL, Docker, Flask, JavaScript, CSS, HTML, Google Cloud Platform, Mathematica, Tableau (and equivalents)
 
 ## Education
 - Diplomate, Data Science | Platzi (_September 2023_)								       		
