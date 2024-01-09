@@ -9,7 +9,10 @@
 
 ## Work Experience
 ### **Data Science Consultant @ SatoriDriven (_September 2023 - Present_)**
-- Conducted data collection, processing, analysis and AI development for Chimu Store SpA.
+- I have proficiently executed Extract, Transform, Load (ETL) processes, handled data processing, conducted comprehensive modeling, and performed in-depth analysis, including hypothesis testing. These activities were integral to assessing marketing campaigns and facilitating data-driven business decision-making at local companies, like Chimu Store SpA.
+
+![StockPredict](/assets/img/data_modeling.jpg)
+*<small>The visual presents a data modeling for assessing the success of marketing campaigns at Chimu Store SpA.</small>*
 
 ## Projects
 ### SatoriDriven WebbApp's API and webpage development:
@@ -24,19 +27,19 @@ Created an automated cloud-pipeline workflow product tool that seamlessly connec
 
 Led the development of the StockPredict product at SatoriDriven. Responsibilities encompassed data preprocessing, extensive research, and the complete lifecycle of an AI model for demand forecasting. This versatile model, applicable across diverse contexts such as health and food services, and retail sales, aims to optimize storage expenses, and enhance the efficiency of the client capital.
 
-![EEG Band Discovery](/assets/img/stock_predict.png)
+![StockPredict](/assets/img/stock_predict.png)
 
 ### SatoriDriven product development: ZenViz
 
 Architected ZenViz, a comprehensive product featuring a cloud pipeline workflow. This system efficiently preprocesses, mines, and stores crucial administrative and business data, including their corresponding KPIs. ZenViz empowers users with automatically updated and accessible cloud dashboards, providing a seamless experience for monitoring key metrics and insights.
 
-![Bike Study](/assets/img/zenviz.png)
+![ZenViz](/assets/img/zenviz.png)
 
 ### Selenium-based Web Scraping Automation Project
 
 Developed as part of my Data Science diplomate at Platzi, this project enhances my skill set by focusing on data extraction without API access. Leveraging Selenium, the automation framework is designed to seamlessly extract crucial data from dynamic and JavaScript-driven websites. Specifically, the project is tailored to extract essential flight information from a prominent airline's website. This initiative not only showcases proficiency in web scraping but also demonstrates the ability to handle dynamic content and JavaScript interactions for effective data extraction.
 
-![EEG Band Discovery](/assets/img/selenium_gif.gif)
+![Selenium](/assets/img/selenium_gif.gif)
 
 ### Object Detection and Tracking AI Project
 
@@ -44,7 +47,7 @@ I implemented an advanced AI project focused on object detection and tracking, s
 
 Primarily designed for city cars and motorbikes, but extensible to any kind of object, the versatility of this project allows its application across various industries. From quality control and management to enhancing security measures, the capabilities of this AI system offer valuable insights and efficiency improvements in diverse operational contexts.
 
-![EEG Band Discovery](/assets/img/object_tracking_gif.gif)
+![Object Tracking](/assets/img/object_tracking_gif.gif)
 
 ## Talks & Lectures
 - Conference poster: "Relativistic plasma waves by strong sources of low-frequency radiation" - PHAROS Conference, Rome, Italy, May 2022
